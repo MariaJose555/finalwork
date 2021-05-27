@@ -1,0 +1,212 @@
+
+     body {
+       background-color: #E8DAEF;
+        font-size: 16px;
+     margin:5%;}
+         }
+
+     h2 {
+     line-height: 100%;
+     color: rgb(250, 128, 114);
+     font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+     line-height: 1.5;
+    font-size: 15empx;
+     text-align: justify;
+     text-transform: uppercase;
+     }
+
+
+li {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: justify;
+line-height: 30px;
+font-size: 25px;
+text-align: center;
+}
+
+h1{
+line-height: 100%;
+color: rgb(250, 128, 114);
+font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+line-height: 1.5;
+color:rebeccapurple;
+font-size: 80px;
+text-align: center;
+background:rgb(255, 223, 255);
+text-transform: uppercase;
+border-radius: 50px;
+border: 10px solid #AF7AC5;
+}
+     p {
+     line-height: 100%;
+     color: black;
+     font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-size: 30px;
+     line-height: 1.5;
+     text-align: justify;
+     font-c
+     }
+
+
+
+     table{
+         background-color:#F5F5DC;
+     }
+
+     td{
+        background-color: #FF7F50;
+     }
+
+     th{
+         background-color:#F5F5DC;
+         color:rebeccapurple;
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         font-size: 25px;
+         text-align: justify;
+         text-transform: uppercase;
+     }
+
+     .contenido{
+       width: 100%;
+       height:5000px;
+       border: 10px solid #AF7AC5;
+     }
+
+     .TITULO{
+       width: 90%;
+       height: 150px;
+       margin-left: 5%;
+     }
+
+     .CAJA1{
+       width: 90%;
+       height: 150px;
+       margin-left: 5%;
+       border: 10px solid #AF7AC5;
+     }
+
+     a:hover { background: yellow; }
+
+     .CAJA2{
+       width: 90%;
+       height: 200px;
+       margin-left: 5%;
+       margin-top: 1%;
+     }
+
+     .CAJA3{
+       width: 90%;
+       height: 200px;
+       margin-left: 5%;
+       margin-top: 4%;
+       border: 10px solid #AF7AC5;
+       overflow-y: auto;
+     }
+
+     .CAJA4{
+       width: 90%;
+       height: 360px;
+       margin-left: 5%;
+       margin-top: 2%;
+       border: 10px solid #AF7AC5;
+     }
+
+     .CAJA4:hover{
+       transform: scale(2,2);
+       transition-duration: 2s;
+     }
+
+     .CAJA5{
+       width: 90%;
+       height: 250px;
+       margin-left: 5%;
+       margin-top: 2%;
+       border: 10px solid #AF7AC5;
+       text-align: center;
+     }
+
+     .IMAGEN1{
+       width: 90%;
+       height: 800px;
+       margin-left: 5%;
+       margin-top: 1%;
+     }
+
+     .IMAGEN1:hover{
+       transform: scale(-1,-1);
+       transition-duration: 5s;
+     }
+
+     .IMAGEN2{
+       width: 90%;
+       height: 800px;
+       margin-left: 5%;
+       margin-top: 1%;
+     }
+
+     .IMAGEN2:hover{
+       transform: translate(180px);
+       transition-duration: 1s;
+     }
+
+     .IMAGEN3{
+       width: 90%;
+       height: 800px;
+       margin-left: 5%;
+       border-radius: 50px;
+       margin-top: 1%;
+     }
+
+     .IMAGEN3:hover{
+       transform: rotateZ(360deg);
+       transition-duration: 2s;
+     }
+
+     .IMAGEN4{
+       width: 90%;
+       height: 800px;
+       margin-left: 5%;
+       border-radius: 50px;
+       margin-top: 6%;
+     }
+
+     .IMAGEN4:hover{
+       transform: rotateZ(-360deg);
+       transition-duration: 2s;
+     }
+
+     #imagen1{
+       width: 90%;
+       height: 800px;
+       margin-left: 5%;
+       border: 10px solid #AF7AC5;
+       border-radius: 50px;
+     }
+
+     #imagen2{
+       width: 90%;
+       height: 800px;
+       margin-left: 5%;
+       border: 10px solid #AF7AC5;
+       border-radius: 50px;
+     }
+
+     #imagen3{
+       width: 90%;
+       height: 800px;
+       margin-left: 5%;
+       border: 10px solid #AF7AC5;
+       border-radius: 50px;
+     }
+
+     #imagen4{
+       width: 90%;
+       height: 800px;
+       margin-left: 5%;
+       border: 10px solid #AF7AC5;
+       border-radius: 50px;
+     }
+
+     #niveles{
+       margin-left: 38%;
+     }
